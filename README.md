@@ -33,5 +33,8 @@ trend, stationarity, and volatility characteristics of the lithium market.
 
 
 ### Time Series Visualization
+<img width="415" height="324" alt="시각화 캡처" src="https://github.com/user-attachments/assets/be010fdf-d939-4bc6-8def-dc421da89108" />
+<img width="404" height="302" alt="acf 캡처" src="https://github.com/user-attachments/assets/455d1421-aaf3-420f-9253-0bf8c0065f38" />
+<img width="404" height="298" alt="1차 차분 후 pacf" src="https://github.com/user-attachments/assets/b9d39c31-10b6-4aa3-8489-641b395647f2" />
 <img width="404" height="295" alt="최종 잔차 분석 시각화" src="https://github.com/user-attachments/assets/fd4b47ba-63c9-4d4c-903a-9a81c9a029a2" />
 
