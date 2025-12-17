@@ -30,3 +30,8 @@ trend, stationarity, and volatility characteristics of the lithium market.
 ### How to Run
 1. Install required packages
 2. Run `lithium_price_arima_garch.R`
+
+
+### Time Series Visualization
+![Lithium Price Time Series](figures/lithium_ts.png)
+
